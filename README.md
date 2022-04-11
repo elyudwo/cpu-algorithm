@@ -4,7 +4,7 @@
 #### 22-04-11
 #include <stdio.h>
 #include <stdlib.h>
-#define MAX_ELEMENT 200
+#define MAX_ELEMENT 300
 
 typedef struct TreeNode {
 	int weight;
