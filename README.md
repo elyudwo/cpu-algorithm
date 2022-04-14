@@ -151,7 +151,8 @@ int main() {
 	return 0;
 
 }
-
+```
+```
 ## 연속행렬의 최소곱
 
 #define _CRT_SECURE_NO_WARNINGS
