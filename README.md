@@ -1,5 +1,4 @@
 # cpu-algorithm
-# cpu-algorithm
 # 201901671 문성현
 ## 허프만 코드
 #include <stdio.h>
