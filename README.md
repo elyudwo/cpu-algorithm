@@ -1,5 +1,5 @@
 # cpu-algorithm
-## A조
+# A조
 ## 허프만 코드
 
 ```
