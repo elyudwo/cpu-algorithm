@@ -14,7 +14,7 @@ typedef struct TreeNode {
 }TreeNode;
 
 typedef struct {
-	TreeNode* ptree;//TreeNod와 연결//
+	TreeNode* ptree;//TreeNode와 연결//
 	char ch;//문자//
 	int key;//문자 빈도수,=weight//
 }element;
