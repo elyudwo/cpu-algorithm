@@ -1,5 +1,5 @@
 # cpu-algorithm
-# 201901671 문성현
+# A조
 ## 허프만 코드
 
 ```
@@ -152,8 +152,9 @@ int main() {
 
 }
 ```
-```
 ## 연속행렬의 최소곱
+
+```
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
